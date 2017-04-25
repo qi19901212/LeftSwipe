@@ -3,6 +3,9 @@
 ![相关的gif 图片](https://github.com/qi19901212/LeftSwipe/blob/master/app/swipe.gif)
 
 ## 使用方法
+1. 可以直接引用LeftSwipeLayout包即可
+2. 在gradle 中直接添加 即可compile 'com.qi.leftswipe:LeftSwipeLayout:0.1.0'  
+
 
  #### xml 设置 。位置不可以改变
  
