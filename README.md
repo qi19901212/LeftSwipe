@@ -4,7 +4,9 @@
 
 ## 使用方法
 1. 可以直接引用LeftSwipeLayout包即可
-2. 在gradle 中直接添加 即可compile 'com.qi.leftswipe:LeftSwipeLayout:0.1.0'  
+2. 在gradle 中直接添加 即可
+     
+    compile 'com.qi.leftswipe:LeftSwipeLayout:0.1.0'  
 
 
  #### xml 设置 。位置不可以改变
